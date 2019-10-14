@@ -21,7 +21,6 @@
 int main(int argc, char **argv)
 {
 	/*Definicion de variables*/
-	//boolean hasPool;
 	int prices[NUM_HOTELS];
 	int discount[NUM_HOTELS];
 	int guests;
